@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  width: 100vw;
+}
+.nav-items {
+  width: 90vw;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.search{
+  margin-left:30px;
+}
